@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI_Builder_Test.uss?fileID=7433441132597879392&amp;guid=71524879685042032afdc2d512277e09&amp;type=3#UI_Builder_Test" />
+    <ui:DropdownField label="Dropdown" index="-1" name="DoneeesAAfficher" />
+</ui:UXML>
